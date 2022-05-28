@@ -1,5 +1,5 @@
 
-# Fraud-Detection-using-Desicion-Tree-and-Random-Forest-Classifier
+# Fraud-Detection-using-Decision-Tree-and-Random-Forest-Classifier
 
 Used both Decision Tree and Random Forest classifier to classify Fraudulent and non Fraudulent 
 transactions of a Finance company. 
